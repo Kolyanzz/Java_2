@@ -25,7 +25,7 @@ public class Main {
     private static void punct2() {
         Kontacts directory = new Kontacts();
 
-        directory.add("Сергеев", "8923123321");
+        directory.add("Сергеев", "8923523321");
         directory.add("Моржов", "8913155326");
         directory.add("Бородулин", "89523218891");
         directory.add("Волков", "8913455672");
