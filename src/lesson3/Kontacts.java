@@ -3,8 +3,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.List;
-import java.util.Iterator;
-
 
 public class Kontacts {
     private Map<String, List<String>> abonent = new HashMap<>();

@@ -1,9 +1,6 @@
 package lesson3;
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Iterator;
-
 
 public class Main {
     public static void main(String[] args) {
@@ -43,5 +40,4 @@ public class Main {
         System.out.println(directory.get("Волков"));
         System.out.println(directory.get("Бородулин"));
     }
-
 }
